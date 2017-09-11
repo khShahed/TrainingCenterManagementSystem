@@ -1,0 +1,10 @@
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\TCMS.Models.dll.config
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\TCMS.Models.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\TCMS.Models.pdb
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\EntityFramework.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\EntityFramework.xml
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\obj\Debug\TCMS.Models.csprojResolveAssemblyReference.cache
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\obj\Debug\TCMS.Models.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.Models\obj\Debug\TCMS.Models.pdb

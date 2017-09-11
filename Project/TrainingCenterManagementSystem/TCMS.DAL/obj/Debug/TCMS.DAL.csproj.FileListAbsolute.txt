@@ -1,0 +1,15 @@
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\TCMS.DAL.dll.config
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\TCMS.DAL.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\TCMS.DAL.pdb
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\EntityFramework.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\EntityFramework.SqlServer.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\TCMS.Models.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\TCMS.Models.pdb
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\EntityFramework.xml
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\bin\Debug\EntityFramework.SqlServer.xml
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\obj\Debug\TCMS.DAL.csprojResolveAssemblyReference.cache
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\obj\Debug\TCMS.DAL.Migrations.TCMSv10.resources
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\obj\Debug\TCMS.DAL.Migrations.RoomUpdatedV11.resources
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\obj\Debug\TCMS.DAL.csproj.GenerateResource.Cache
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\obj\Debug\TCMS.DAL.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.DAL\obj\Debug\TCMS.DAL.pdb

@@ -1,0 +1,11 @@
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\TCMS.BLL.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\TCMS.BLL.pdb
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\TCMS.DAL.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\TCMS.Models.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\EntityFramework.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\TCMS.DAL.pdb
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\TCMS.Models.pdb
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\bin\Debug\EntityFramework.xml
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\obj\Debug\TCMS.BLL.csprojResolveAssemblyReference.cache
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\obj\Debug\TCMS.BLL.dll
+E:\AIUB\SEMESTER 7 Fall 2016\C# - OBJECT ORIENTED PROGRAMMING 2\Project\TrainingCenterManagementSystem\TCMS.BLL\obj\Debug\TCMS.BLL.pdb
